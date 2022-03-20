@@ -20,4 +20,4 @@ node dist/
 ```
 
 
-⌨️ por [CamiloBlanquicet](https://github.com/CamiloBlanquicet/ 😊
+⌨️ por [CamiloBlanquicet](https://github.com/CamiloBlanquicet/) 😊
